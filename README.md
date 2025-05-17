@@ -31,4 +31,6 @@
 
 ![Alt text](https://github.com/mirzazada6/Cyber_lab5/blob/main/step_5_1.jpg?raw=true)
 
-![Alt text](https://github.com/mirzazada6/Cyber_lab5/blob/main/step_5_2.jpg?raw=true)
+# STEP 6: Clean Up / Cover Tracks
+
+![Alt text](https://github.com/mirzazada6/Cyber_lab5/blob/main/step_6.png?raw=true)
