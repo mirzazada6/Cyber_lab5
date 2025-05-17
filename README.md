@@ -22,3 +22,7 @@
 ![Alt text](https://github.com/mirzazada6/Cyber_lab5/blob/main/step_3_3.jpg?raw=true)
 
 ![Alt text](https://github.com/mirzazada6/Cyber_lab5/blob/main/step_3_4.jpg?raw=true)
+
+# STEP 4: Privilege Escalation
+
+![Alt text](https://github.com/mirzazada6/Cyber_lab5/blob/main/step4.jpg?raw=true)
